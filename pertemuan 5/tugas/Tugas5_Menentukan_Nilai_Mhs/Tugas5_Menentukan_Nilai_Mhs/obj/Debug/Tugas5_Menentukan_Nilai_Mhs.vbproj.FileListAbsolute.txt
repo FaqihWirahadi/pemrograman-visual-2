@@ -1,0 +1,19 @@
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 5\Tugas5_Menentukan_Nilai_Mhs\Tugas5_Menentukan_Nilai_Mhs\bin\Debug\Tugas5_Menentukan_Nilai_Mhs.exe.config
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 5\Tugas5_Menentukan_Nilai_Mhs\Tugas5_Menentukan_Nilai_Mhs\bin\Debug\Tugas5_Menentukan_Nilai_Mhs.exe
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 5\Tugas5_Menentukan_Nilai_Mhs\Tugas5_Menentukan_Nilai_Mhs\bin\Debug\Tugas5_Menentukan_Nilai_Mhs.pdb
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 5\Tugas5_Menentukan_Nilai_Mhs\Tugas5_Menentukan_Nilai_Mhs\bin\Debug\Tugas5_Menentukan_Nilai_Mhs.xml
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 5\Tugas5_Menentukan_Nilai_Mhs\Tugas5_Menentukan_Nilai_Mhs\obj\Debug\Tugas5_Menentukan_Nilai_Mhs.vbprojResolveAssemblyReference.cache
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 5\Tugas5_Menentukan_Nilai_Mhs\Tugas5_Menentukan_Nilai_Mhs\obj\Debug\Tugas5_Menentukan_Nilai_Mhs.Resources.resources
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 5\Tugas5_Menentukan_Nilai_Mhs\Tugas5_Menentukan_Nilai_Mhs\obj\Debug\Tugas5_Menentukan_Nilai_Mhs.vbproj.GenerateResource.Cache
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 5\Tugas5_Menentukan_Nilai_Mhs\Tugas5_Menentukan_Nilai_Mhs\obj\Debug\Tugas5_Menentukan_Nilai_Mhs.exe
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 5\Tugas5_Menentukan_Nilai_Mhs\Tugas5_Menentukan_Nilai_Mhs\obj\Debug\Tugas5_Menentukan_Nilai_Mhs.xml
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 5\Tugas5_Menentukan_Nilai_Mhs\Tugas5_Menentukan_Nilai_Mhs\obj\Debug\Tugas5_Menentukan_Nilai_Mhs.pdb
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 5\Tugas5_Menentukan_Nilai_Mhs\Tugas5_Menentukan_Nilai_Mhs\obj\Debug\Tugas5_Menentukan_Nilai_Mhs.Tugas5_Menentukan_Nilai_Mhs_Reza_Ramadhan.resources
+C:\Users\kis20\Downloads\data visual  faqih\latihan\pertemuan 5\Tugas5_Menentukan_Nilai_Mhs\Tugas5_Menentukan_Nilai_Mhs\bin\Debug\Tugas5_Menentukan_Nilai_Mhs.exe.config
+C:\Users\kis20\Downloads\data visual  faqih\latihan\pertemuan 5\Tugas5_Menentukan_Nilai_Mhs\Tugas5_Menentukan_Nilai_Mhs\obj\Debug\Tugas5_Menentukan_Nilai_Mhs.exe
+C:\Users\kis20\Downloads\data visual  faqih\latihan\pertemuan 5\Tugas5_Menentukan_Nilai_Mhs\Tugas5_Menentukan_Nilai_Mhs\obj\Debug\Tugas5_Menentukan_Nilai_Mhs.xml
+C:\Users\kis20\Downloads\data visual  faqih\latihan\pertemuan 5\Tugas5_Menentukan_Nilai_Mhs\Tugas5_Menentukan_Nilai_Mhs\obj\Debug\Tugas5_Menentukan_Nilai_Mhs.pdb
+C:\Users\kis20\Downloads\data visual  faqih\latihan\pertemuan 5\Tugas5_Menentukan_Nilai_Mhs\Tugas5_Menentukan_Nilai_Mhs\obj\Debug\Tugas5_Menentukan_Nilai_Mhs.vbprojResolveAssemblyReference.cache
+C:\Users\kis20\Downloads\data visual  faqih\latihan\pertemuan 5\Tugas5_Menentukan_Nilai_Mhs\Tugas5_Menentukan_Nilai_Mhs\obj\Debug\Tugas5_Menentukan_Nilai_Mhs.Resources.resources
+C:\Users\kis20\Downloads\data visual  faqih\latihan\pertemuan 5\Tugas5_Menentukan_Nilai_Mhs\Tugas5_Menentukan_Nilai_Mhs\obj\Debug\Tugas5_Menentukan_Nilai_Mhs.Tugas5_Menentukan_Nilai_Mhs_faqih.resources
+C:\Users\kis20\Downloads\data visual  faqih\latihan\pertemuan 5\Tugas5_Menentukan_Nilai_Mhs\Tugas5_Menentukan_Nilai_Mhs\obj\Debug\Tugas5_Menentukan_Nilai_Mhs.vbproj.GenerateResource.Cache

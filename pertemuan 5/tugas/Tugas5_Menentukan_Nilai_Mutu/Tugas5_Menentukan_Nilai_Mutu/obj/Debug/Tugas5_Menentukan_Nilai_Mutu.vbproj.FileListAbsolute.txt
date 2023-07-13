@@ -1,0 +1,10 @@
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 5\Tugas5_Menentukan_Nilai_Mutu\Tugas5_Menentukan_Nilai_Mutu\bin\Debug\Tugas5_Menentukan_Nilai_Mutu.exe.config
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 5\Tugas5_Menentukan_Nilai_Mutu\Tugas5_Menentukan_Nilai_Mutu\obj\Debug\Tugas5_Menentukan_Nilai_Mutu.Tugas5_Menentukan_Nilai_Mutu_By_Reza_Ramadhan.resources
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 5\Tugas5_Menentukan_Nilai_Mutu\Tugas5_Menentukan_Nilai_Mutu\obj\Debug\Tugas5_Menentukan_Nilai_Mutu.Resources.resources
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 5\Tugas5_Menentukan_Nilai_Mutu\Tugas5_Menentukan_Nilai_Mutu\obj\Debug\Tugas5_Menentukan_Nilai_Mutu.vbproj.GenerateResource.Cache
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 5\Tugas5_Menentukan_Nilai_Mutu\Tugas5_Menentukan_Nilai_Mutu\obj\Debug\Tugas5_Menentukan_Nilai_Mutu.vbprojResolveAssemblyReference.cache
+C:\Users\kis20\Downloads\data visual  faqih\latihan\pertemuan 5\Tugas5_Menentukan_Nilai_Mutu\Tugas5_Menentukan_Nilai_Mutu\bin\Debug\Tugas5_Menentukan_Nilai_Mutu.exe.config
+C:\Users\kis20\Downloads\data visual  faqih\latihan\pertemuan 5\Tugas5_Menentukan_Nilai_Mutu\Tugas5_Menentukan_Nilai_Mutu\obj\Debug\Tugas5_Menentukan_Nilai_Mutu.vbprojResolveAssemblyReference.cache
+C:\Users\kis20\Downloads\data visual  faqih\latihan\pertemuan 5\Tugas5_Menentukan_Nilai_Mutu\Tugas5_Menentukan_Nilai_Mutu\obj\Debug\Tugas5_Menentukan_Nilai_Mutu.Tugas5_Menentukan_Nilai_Mutu_By_Reza_Ramadhan.resources
+C:\Users\kis20\Downloads\data visual  faqih\latihan\pertemuan 5\Tugas5_Menentukan_Nilai_Mutu\Tugas5_Menentukan_Nilai_Mutu\obj\Debug\Tugas5_Menentukan_Nilai_Mutu.Resources.resources
+C:\Users\kis20\Downloads\data visual  faqih\latihan\pertemuan 5\Tugas5_Menentukan_Nilai_Mutu\Tugas5_Menentukan_Nilai_Mutu\obj\Debug\Tugas5_Menentukan_Nilai_Mutu.vbproj.GenerateResource.Cache
