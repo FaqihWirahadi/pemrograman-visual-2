@@ -1,0 +1,19 @@
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 6\Tiket Wisata\Tiket Wisata\bin\Debug\Tiket Wisata.exe.config
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 6\Tiket Wisata\Tiket Wisata\bin\Debug\Tiket Wisata.exe
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 6\Tiket Wisata\Tiket Wisata\bin\Debug\Tiket Wisata.pdb
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 6\Tiket Wisata\Tiket Wisata\bin\Debug\Tiket Wisata.xml
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 6\Tiket Wisata\Tiket Wisata\obj\Debug\Tiket Wisata.vbprojResolveAssemblyReference.cache
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 6\Tiket Wisata\Tiket Wisata\obj\Debug\Tiket_Wisata.Form1.resources
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 6\Tiket Wisata\Tiket Wisata\obj\Debug\Tiket_Wisata.Resources.resources
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 6\Tiket Wisata\Tiket Wisata\obj\Debug\Tiket Wisata.vbproj.GenerateResource.Cache
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 6\Tiket Wisata\Tiket Wisata\obj\Debug\Tiket Wisata.exe
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 6\Tiket Wisata\Tiket Wisata\obj\Debug\Tiket Wisata.xml
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 6\Tiket Wisata\Tiket Wisata\obj\Debug\Tiket Wisata.pdb
+D:\data visual  faqih\latihan\pertemuan 6\Tiket Wisata\Tiket Wisata\bin\Debug\Tiket Wisata.exe.config
+D:\data visual  faqih\latihan\pertemuan 6\Tiket Wisata\Tiket Wisata\obj\Debug\Tiket Wisata.exe
+D:\data visual  faqih\latihan\pertemuan 6\Tiket Wisata\Tiket Wisata\obj\Debug\Tiket Wisata.xml
+D:\data visual  faqih\latihan\pertemuan 6\Tiket Wisata\Tiket Wisata\obj\Debug\Tiket Wisata.pdb
+D:\data visual  faqih\latihan\pertemuan 6\Tiket Wisata\Tiket Wisata\obj\Debug\Tiket Wisata.vbprojResolveAssemblyReference.cache
+D:\data visual  faqih\latihan\pertemuan 6\Tiket Wisata\Tiket Wisata\obj\Debug\Tiket_Wisata.Form1.resources
+D:\data visual  faqih\latihan\pertemuan 6\Tiket Wisata\Tiket Wisata\obj\Debug\Tiket_Wisata.Resources.resources
+D:\data visual  faqih\latihan\pertemuan 6\Tiket Wisata\Tiket Wisata\obj\Debug\Tiket Wisata.vbproj.GenerateResource.Cache
