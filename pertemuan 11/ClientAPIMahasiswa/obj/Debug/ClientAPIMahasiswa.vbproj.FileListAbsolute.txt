@@ -1,0 +1,16 @@
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\Pertemuan 11\ClientAPIMahasiswa\bin\Debug\ClientAPIMahasiswa.exe.config
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\Pertemuan 11\ClientAPIMahasiswa\bin\Debug\ClientAPIMahasiswa.exe
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\Pertemuan 11\ClientAPIMahasiswa\bin\Debug\ClientAPIMahasiswa.pdb
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\Pertemuan 11\ClientAPIMahasiswa\bin\Debug\ClientAPIMahasiswa.xml
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\Pertemuan 11\ClientAPIMahasiswa\bin\Debug\Newtonsoft.Json.dll
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\Pertemuan 11\ClientAPIMahasiswa\bin\Debug\Newtonsoft.Json.pdb
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\Pertemuan 11\ClientAPIMahasiswa\bin\Debug\Newtonsoft.Json.xml
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\Pertemuan 11\ClientAPIMahasiswa\obj\Debug\ClientAPIMahasiswa.vbproj.AssemblyReference.cache
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\Pertemuan 11\ClientAPIMahasiswa\obj\Debug\ClientAPIMahasiswa.Form1.resources
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\Pertemuan 11\ClientAPIMahasiswa\obj\Debug\ClientAPIMahasiswa.Resources.resources
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\Pertemuan 11\ClientAPIMahasiswa\obj\Debug\ClientAPIMahasiswa.vbproj.GenerateResource.cache
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\Pertemuan 11\ClientAPIMahasiswa\obj\Debug\ClientAPIMahasiswa.vbproj.CoreCompileInputs.cache
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\Pertemuan 11\ClientAPIMahasiswa\obj\Debug\ClientAPIMahasiswa.vbproj.CopyComplete
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\Pertemuan 11\ClientAPIMahasiswa\obj\Debug\ClientAPIMahasiswa.exe
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\Pertemuan 11\ClientAPIMahasiswa\obj\Debug\ClientAPIMahasiswa.xml
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\Pertemuan 11\ClientAPIMahasiswa\obj\Debug\ClientAPIMahasiswa.pdb
