@@ -1,0 +1,7 @@
+cara penggunaan :
+extract rar
+pindahkan file ke htdocs
+buatlah data base di localhost dengan nama rawat_inap
+lalu run di visual enterpres
+login sebagai admin username : admin
+		    password : 123
