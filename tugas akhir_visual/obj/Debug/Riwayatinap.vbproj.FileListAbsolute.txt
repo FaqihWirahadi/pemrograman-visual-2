@@ -1,0 +1,8 @@
+C:\xampp\htdocs\pyathlonlite\ARIFIN_UAP_VB2019-main\RekamMedis\bin\Debug\RekamMedis.exe.config
+C:\xampp\htdocs\pyathlonlite\ARIFIN_UAP_VB2019-main\RekamMedis\obj\Debug\RekamMedis.exe
+C:\xampp\htdocs\pyathlonlite\ARIFIN_UAP_VB2019-main\RekamMedis\obj\Debug\RekamMedis.xml
+C:\xampp\htdocs\pyathlonlite\ARIFIN_UAP_VB2019-main\RekamMedis\obj\Debug\RekamMedis.pdb
+C:\xampp\htdocs\pyathlonlite\FAQIH_UAS_VB2019-main\RekamMedis\bin\Debug\RekamMedis.exe.config
+C:\xampp\htdocs\pyathlonlite\FAQIH_UAS_VB2019-main\RekamMedis\obj\Debug\RekamMedis.exe
+C:\xampp\htdocs\pyathlonlite\FAQIH_UAS_VB2019-main\RekamMedis\obj\Debug\RekamMedis.xml
+C:\xampp\htdocs\pyathlonlite\FAQIH_UAS_VB2019-main\RekamMedis\obj\Debug\RekamMedis.pdb

@@ -1,0 +1,157 @@
+E:\NGAJAR\VB\Praktek\RekamMedis\RekamMedis\bin\Debug\RekamMedis.exe.config
+E:\NGAJAR\VB\Praktek\RekamMedis\RekamMedis\bin\Debug\RekamMedis.exe
+E:\NGAJAR\VB\Praktek\RekamMedis\RekamMedis\bin\Debug\RekamMedis.pdb
+E:\NGAJAR\VB\Praktek\RekamMedis\RekamMedis\bin\Debug\RekamMedis.xml
+E:\NGAJAR\VB\Praktek\RekamMedis\RekamMedis\bin\Debug\MySql.Data.dll
+E:\NGAJAR\VB\Praktek\RekamMedis\RekamMedis\bin\Debug\Google.Protobuf.dll
+E:\NGAJAR\VB\Praktek\RekamMedis\RekamMedis\bin\Debug\Zstandard.Net.dll
+E:\NGAJAR\VB\Praktek\RekamMedis\RekamMedis\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\NGAJAR\VB\Praktek\RekamMedis\RekamMedis\bin\Debug\BouncyCastle.Crypto.dll
+E:\NGAJAR\VB\Praktek\RekamMedis\RekamMedis\bin\Debug\Ubiety.Dns.Core.dll
+E:\NGAJAR\VB\Praktek\RekamMedis\RekamMedis\bin\Debug\Renci.SshNet.dll
+E:\NGAJAR\VB\Praktek\RekamMedis\RekamMedis\bin\Debug\System.Memory.dll
+E:\NGAJAR\VB\Praktek\RekamMedis\RekamMedis\bin\Debug\System.Buffers.dll
+E:\NGAJAR\VB\Praktek\RekamMedis\RekamMedis\bin\Debug\K4os.Compression.LZ4.dll
+E:\NGAJAR\VB\Praktek\RekamMedis\RekamMedis\bin\Debug\K4os.Hash.xxHash.dll
+E:\NGAJAR\VB\Praktek\RekamMedis\RekamMedis\bin\Debug\System.Numerics.Vectors.dll
+E:\NGAJAR\VB\Praktek\RekamMedis\RekamMedis\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\NGAJAR\VB\Praktek\RekamMedis\RekamMedis\bin\Debug\MySql.Data.xml
+E:\NGAJAR\VB\Praktek\RekamMedis\RekamMedis\obj\Debug\RekamMedis.vbprojAssemblyReference.cache
+E:\NGAJAR\VB\Praktek\RekamMedis\RekamMedis\obj\Debug\RekamMedis.exe.config
+E:\NGAJAR\VB\Praktek\RekamMedis\RekamMedis\obj\Debug\RekamMedis.DataAdmin.resources
+E:\NGAJAR\VB\Praktek\RekamMedis\RekamMedis\obj\Debug\RekamMedis.DataDokter.resources
+E:\NGAJAR\VB\Praktek\RekamMedis\RekamMedis\obj\Debug\RekamMedis.DataObat.resources
+E:\NGAJAR\VB\Praktek\RekamMedis\RekamMedis\obj\Debug\RekamMedis.DataPasien.resources
+E:\NGAJAR\VB\Praktek\RekamMedis\RekamMedis\obj\Debug\RekamMedis.FormLogin.resources
+E:\NGAJAR\VB\Praktek\RekamMedis\RekamMedis\obj\Debug\RekamMedis.HomeAdmin.resources
+E:\NGAJAR\VB\Praktek\RekamMedis\RekamMedis\obj\Debug\RekamMedis.Resources.resources
+E:\NGAJAR\VB\Praktek\RekamMedis\RekamMedis\obj\Debug\RekamMedis.vbproj.GenerateResource.cache
+E:\NGAJAR\VB\Praktek\RekamMedis\RekamMedis\obj\Debug\RekamMedis.vbproj.CoreCompileInputs.cache
+E:\NGAJAR\VB\Praktek\RekamMedis\RekamMedis\obj\Debug\RekamMedis.vbproj.CopyComplete
+E:\NGAJAR\VB\Praktek\RekamMedis\RekamMedis\obj\Debug\RekamMedis.exe
+E:\NGAJAR\VB\Praktek\RekamMedis\RekamMedis\obj\Debug\RekamMedis.xml
+E:\NGAJAR\VB\Praktek\RekamMedis\RekamMedis\obj\Debug\RekamMedis.pdb
+E:\NGAJAR\VB\Praktek\RekamMedis\RekamMedis\obj\Debug\RekamMedis.FormPendaftaran.resources
+E:\NGAJAR\VB\Praktek\RekamMedis\RekamMedis\obj\Debug\RekamMedis.FormPemeriksaan.resources
+E:\NGAJAR\VB\Praktek\RekamMedis\RekamMedis\obj\Debug\RekamMedis.FormPemeriksaanDokter.resources
+E:\NGAJAR\VB\Praktek\RekamMedis\RekamMedis\obj\Debug\RekamMedis.FormResep.resources
+E:\NGAJAR\VB\Praktek\RekamMedis\RekamMedis\obj\Debug\RekamMedis.ListResep.resources
+E:\NGAJAR\VB\Praktek\RekamMedis\RekamMedis\obj\Debug\RekamMedis.FormDokter.resources
+E:\NGAJAR\VB\Praktek\RekamMedis\RekamMedis\obj\Debug\RekamMedis.FormSelesai.resources
+D:\PROGRAM INFORMATIKA\VISUAL BASIC\RekamMedis\RekamMedis\bin\Debug\RekamMedis.exe.config
+D:\PROGRAM INFORMATIKA\VISUAL BASIC\RekamMedis\RekamMedis\bin\Debug\RekamMedis.exe
+D:\PROGRAM INFORMATIKA\VISUAL BASIC\RekamMedis\RekamMedis\bin\Debug\RekamMedis.pdb
+D:\PROGRAM INFORMATIKA\VISUAL BASIC\RekamMedis\RekamMedis\bin\Debug\RekamMedis.xml
+D:\PROGRAM INFORMATIKA\VISUAL BASIC\RekamMedis\RekamMedis\bin\Debug\MySql.Data.dll
+D:\PROGRAM INFORMATIKA\VISUAL BASIC\RekamMedis\RekamMedis\bin\Debug\Google.Protobuf.dll
+D:\PROGRAM INFORMATIKA\VISUAL BASIC\RekamMedis\RekamMedis\bin\Debug\Zstandard.Net.dll
+D:\PROGRAM INFORMATIKA\VISUAL BASIC\RekamMedis\RekamMedis\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\PROGRAM INFORMATIKA\VISUAL BASIC\RekamMedis\RekamMedis\bin\Debug\BouncyCastle.Crypto.dll
+D:\PROGRAM INFORMATIKA\VISUAL BASIC\RekamMedis\RekamMedis\bin\Debug\Ubiety.Dns.Core.dll
+D:\PROGRAM INFORMATIKA\VISUAL BASIC\RekamMedis\RekamMedis\bin\Debug\Renci.SshNet.dll
+D:\PROGRAM INFORMATIKA\VISUAL BASIC\RekamMedis\RekamMedis\bin\Debug\System.Memory.dll
+D:\PROGRAM INFORMATIKA\VISUAL BASIC\RekamMedis\RekamMedis\bin\Debug\System.Buffers.dll
+D:\PROGRAM INFORMATIKA\VISUAL BASIC\RekamMedis\RekamMedis\bin\Debug\K4os.Compression.LZ4.dll
+D:\PROGRAM INFORMATIKA\VISUAL BASIC\RekamMedis\RekamMedis\bin\Debug\K4os.Hash.xxHash.dll
+D:\PROGRAM INFORMATIKA\VISUAL BASIC\RekamMedis\RekamMedis\bin\Debug\System.Numerics.Vectors.dll
+D:\PROGRAM INFORMATIKA\VISUAL BASIC\RekamMedis\RekamMedis\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\PROGRAM INFORMATIKA\VISUAL BASIC\RekamMedis\RekamMedis\bin\Debug\MySql.Data.xml
+D:\PROGRAM INFORMATIKA\VISUAL BASIC\RekamMedis\RekamMedis\obj\Debug\RekamMedis.vbprojAssemblyReference.cache
+D:\PROGRAM INFORMATIKA\VISUAL BASIC\RekamMedis\RekamMedis\obj\Debug\RekamMedis.exe.config
+D:\PROGRAM INFORMATIKA\VISUAL BASIC\RekamMedis\RekamMedis\obj\Debug\RekamMedis.DataAdmin.resources
+D:\PROGRAM INFORMATIKA\VISUAL BASIC\RekamMedis\RekamMedis\obj\Debug\RekamMedis.DataDokter.resources
+D:\PROGRAM INFORMATIKA\VISUAL BASIC\RekamMedis\RekamMedis\obj\Debug\RekamMedis.DataObat.resources
+D:\PROGRAM INFORMATIKA\VISUAL BASIC\RekamMedis\RekamMedis\obj\Debug\RekamMedis.DataPasien.resources
+D:\PROGRAM INFORMATIKA\VISUAL BASIC\RekamMedis\RekamMedis\obj\Debug\RekamMedis.FormDokter.resources
+D:\PROGRAM INFORMATIKA\VISUAL BASIC\RekamMedis\RekamMedis\obj\Debug\RekamMedis.FormLogin.resources
+D:\PROGRAM INFORMATIKA\VISUAL BASIC\RekamMedis\RekamMedis\obj\Debug\RekamMedis.FormPemeriksaan.resources
+D:\PROGRAM INFORMATIKA\VISUAL BASIC\RekamMedis\RekamMedis\obj\Debug\RekamMedis.FormPemeriksaanDokter.resources
+D:\PROGRAM INFORMATIKA\VISUAL BASIC\RekamMedis\RekamMedis\obj\Debug\RekamMedis.FormPendaftaran.resources
+D:\PROGRAM INFORMATIKA\VISUAL BASIC\RekamMedis\RekamMedis\obj\Debug\RekamMedis.FormResep.resources
+D:\PROGRAM INFORMATIKA\VISUAL BASIC\RekamMedis\RekamMedis\obj\Debug\RekamMedis.FormSelesai.resources
+D:\PROGRAM INFORMATIKA\VISUAL BASIC\RekamMedis\RekamMedis\obj\Debug\RekamMedis.HomeAdmin.resources
+D:\PROGRAM INFORMATIKA\VISUAL BASIC\RekamMedis\RekamMedis\obj\Debug\RekamMedis.ListResep.resources
+D:\PROGRAM INFORMATIKA\VISUAL BASIC\RekamMedis\RekamMedis\obj\Debug\RekamMedis.Resources.resources
+D:\PROGRAM INFORMATIKA\VISUAL BASIC\RekamMedis\RekamMedis\obj\Debug\RekamMedis.vbproj.GenerateResource.cache
+D:\PROGRAM INFORMATIKA\VISUAL BASIC\RekamMedis\RekamMedis\obj\Debug\RekamMedis.vbproj.CoreCompileInputs.cache
+D:\PROGRAM INFORMATIKA\VISUAL BASIC\RekamMedis\RekamMedis\obj\Debug\RekamMedis.vbproj.CopyComplete
+D:\PROGRAM INFORMATIKA\VISUAL BASIC\RekamMedis\RekamMedis\obj\Debug\RekamMedis.exe
+D:\PROGRAM INFORMATIKA\VISUAL BASIC\RekamMedis\RekamMedis\obj\Debug\RekamMedis.xml
+D:\PROGRAM INFORMATIKA\VISUAL BASIC\RekamMedis\RekamMedis\obj\Debug\RekamMedis.pdb
+D:\RekamMedis\RekamMedis\bin\Debug\RekamMedis.exe.config
+D:\RekamMedis\RekamMedis\bin\Debug\RekamMedis.exe
+D:\RekamMedis\RekamMedis\bin\Debug\RekamMedis.pdb
+D:\RekamMedis\RekamMedis\bin\Debug\RekamMedis.xml
+D:\RekamMedis\RekamMedis\bin\Debug\MySql.Data.dll
+D:\RekamMedis\RekamMedis\bin\Debug\Google.Protobuf.dll
+D:\RekamMedis\RekamMedis\bin\Debug\Zstandard.Net.dll
+D:\RekamMedis\RekamMedis\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\RekamMedis\RekamMedis\bin\Debug\BouncyCastle.Crypto.dll
+D:\RekamMedis\RekamMedis\bin\Debug\Ubiety.Dns.Core.dll
+D:\RekamMedis\RekamMedis\bin\Debug\Renci.SshNet.dll
+D:\RekamMedis\RekamMedis\bin\Debug\System.Memory.dll
+D:\RekamMedis\RekamMedis\bin\Debug\System.Buffers.dll
+D:\RekamMedis\RekamMedis\bin\Debug\K4os.Compression.LZ4.dll
+D:\RekamMedis\RekamMedis\bin\Debug\K4os.Hash.xxHash.dll
+D:\RekamMedis\RekamMedis\bin\Debug\System.Numerics.Vectors.dll
+D:\RekamMedis\RekamMedis\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\RekamMedis\RekamMedis\bin\Debug\MySql.Data.xml
+D:\RekamMedis\RekamMedis\obj\Debug\RekamMedis.vbprojAssemblyReference.cache
+D:\RekamMedis\RekamMedis\obj\Debug\RekamMedis.exe.config
+D:\RekamMedis\RekamMedis\obj\Debug\RekamMedis.DataAdmin.resources
+D:\RekamMedis\RekamMedis\obj\Debug\RekamMedis.DataDokter.resources
+D:\RekamMedis\RekamMedis\obj\Debug\RekamMedis.DataObat.resources
+D:\RekamMedis\RekamMedis\obj\Debug\RekamMedis.DataPasien.resources
+D:\RekamMedis\RekamMedis\obj\Debug\RekamMedis.FormDokter.resources
+D:\RekamMedis\RekamMedis\obj\Debug\RekamMedis.FormLogin.resources
+D:\RekamMedis\RekamMedis\obj\Debug\RekamMedis.FormPemeriksaan.resources
+D:\RekamMedis\RekamMedis\obj\Debug\RekamMedis.FormPemeriksaanDokter.resources
+D:\RekamMedis\RekamMedis\obj\Debug\RekamMedis.FormPendaftaran.resources
+D:\RekamMedis\RekamMedis\obj\Debug\RekamMedis.FormResep.resources
+D:\RekamMedis\RekamMedis\obj\Debug\RekamMedis.FormSelesai.resources
+D:\RekamMedis\RekamMedis\obj\Debug\RekamMedis.HomeAdmin.resources
+D:\RekamMedis\RekamMedis\obj\Debug\RekamMedis.ListResep.resources
+D:\RekamMedis\RekamMedis\obj\Debug\RekamMedis.Resources.resources
+D:\RekamMedis\RekamMedis\obj\Debug\RekamMedis.vbproj.GenerateResource.cache
+D:\RekamMedis\RekamMedis\obj\Debug\RekamMedis.vbproj.CoreCompileInputs.cache
+D:\RekamMedis\RekamMedis\obj\Debug\RekamMedis.vbproj.CopyComplete
+D:\RekamMedis\RekamMedis\obj\Debug\RekamMedis.exe
+D:\RekamMedis\RekamMedis\obj\Debug\RekamMedis.xml
+D:\RekamMedis\RekamMedis\obj\Debug\RekamMedis.pdb
+C:\xampp\htdocs\pyathlonlite\ARIFIN_UAP_VB2019-main\RekamMedis\bin\Debug\RekamMedis.exe.config
+C:\xampp\htdocs\pyathlonlite\ARIFIN_UAP_VB2019-main\RekamMedis\obj\Debug\RekamMedis.exe
+C:\xampp\htdocs\pyathlonlite\ARIFIN_UAP_VB2019-main\RekamMedis\obj\Debug\RekamMedis.xml
+C:\xampp\htdocs\pyathlonlite\ARIFIN_UAP_VB2019-main\RekamMedis\obj\Debug\RekamMedis.pdb
+C:\xampp\htdocs\pyathlonlite\ARIFIN_UAP_VB2019-main\RekamMedis\bin\Debug\RekamMedis.exe
+C:\xampp\htdocs\pyathlonlite\ARIFIN_UAP_VB2019-main\RekamMedis\bin\Debug\RekamMedis.pdb
+C:\xampp\htdocs\pyathlonlite\ARIFIN_UAP_VB2019-main\RekamMedis\bin\Debug\RekamMedis.xml
+C:\xampp\htdocs\pyathlonlite\ARIFIN_UAP_VB2019-main\RekamMedis\bin\Debug\Google.Protobuf.dll
+C:\xampp\htdocs\pyathlonlite\ARIFIN_UAP_VB2019-main\RekamMedis\bin\Debug\Zstandard.Net.dll
+C:\xampp\htdocs\pyathlonlite\ARIFIN_UAP_VB2019-main\RekamMedis\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\xampp\htdocs\pyathlonlite\ARIFIN_UAP_VB2019-main\RekamMedis\bin\Debug\BouncyCastle.Crypto.dll
+C:\xampp\htdocs\pyathlonlite\ARIFIN_UAP_VB2019-main\RekamMedis\bin\Debug\Ubiety.Dns.Core.dll
+C:\xampp\htdocs\pyathlonlite\ARIFIN_UAP_VB2019-main\RekamMedis\bin\Debug\Renci.SshNet.dll
+C:\xampp\htdocs\pyathlonlite\ARIFIN_UAP_VB2019-main\RekamMedis\bin\Debug\System.Memory.dll
+C:\xampp\htdocs\pyathlonlite\ARIFIN_UAP_VB2019-main\RekamMedis\bin\Debug\System.Buffers.dll
+C:\xampp\htdocs\pyathlonlite\ARIFIN_UAP_VB2019-main\RekamMedis\bin\Debug\K4os.Compression.LZ4.dll
+C:\xampp\htdocs\pyathlonlite\ARIFIN_UAP_VB2019-main\RekamMedis\bin\Debug\K4os.Hash.xxHash.dll
+C:\xampp\htdocs\pyathlonlite\ARIFIN_UAP_VB2019-main\RekamMedis\bin\Debug\System.Numerics.Vectors.dll
+C:\xampp\htdocs\pyathlonlite\ARIFIN_UAP_VB2019-main\RekamMedis\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\xampp\htdocs\pyathlonlite\ARIFIN_UAP_VB2019-main\RekamMedis\bin\Debug\MySql.Data.xml
+C:\xampp\htdocs\pyathlonlite\ARIFIN_UAP_VB2019-main\RekamMedis\obj\Debug\RekamMedis.vbprojResolveAssemblyReference.cache
+C:\xampp\htdocs\pyathlonlite\ARIFIN_UAP_VB2019-main\RekamMedis\obj\Debug\RekamMedis.vbproj.RekamMedis.exe.config
+C:\xampp\htdocs\pyathlonlite\ARIFIN_UAP_VB2019-main\RekamMedis\obj\Debug\RekamMedis.DataAdmin.resources
+C:\xampp\htdocs\pyathlonlite\ARIFIN_UAP_VB2019-main\RekamMedis\obj\Debug\RekamMedis.DataDokter.resources
+C:\xampp\htdocs\pyathlonlite\ARIFIN_UAP_VB2019-main\RekamMedis\obj\Debug\RekamMedis.DataObat.resources
+C:\xampp\htdocs\pyathlonlite\ARIFIN_UAP_VB2019-main\RekamMedis\obj\Debug\RekamMedis.DataPasien.resources
+C:\xampp\htdocs\pyathlonlite\ARIFIN_UAP_VB2019-main\RekamMedis\obj\Debug\RekamMedis.FormDokter.resources
+C:\xampp\htdocs\pyathlonlite\ARIFIN_UAP_VB2019-main\RekamMedis\obj\Debug\RekamMedis.FormLogin.resources
+C:\xampp\htdocs\pyathlonlite\ARIFIN_UAP_VB2019-main\RekamMedis\obj\Debug\RekamMedis.FormPemeriksaan.resources
+C:\xampp\htdocs\pyathlonlite\ARIFIN_UAP_VB2019-main\RekamMedis\obj\Debug\RekamMedis.FormPemeriksaanDokter.resources
+C:\xampp\htdocs\pyathlonlite\ARIFIN_UAP_VB2019-main\RekamMedis\obj\Debug\RekamMedis.FormPendaftaran.resources
+C:\xampp\htdocs\pyathlonlite\ARIFIN_UAP_VB2019-main\RekamMedis\obj\Debug\RekamMedis.FormResep.resources
+C:\xampp\htdocs\pyathlonlite\ARIFIN_UAP_VB2019-main\RekamMedis\obj\Debug\RekamMedis.FormSelesai.resources
+C:\xampp\htdocs\pyathlonlite\ARIFIN_UAP_VB2019-main\RekamMedis\obj\Debug\RekamMedis.HomeAdmin.resources
+C:\xampp\htdocs\pyathlonlite\ARIFIN_UAP_VB2019-main\RekamMedis\obj\Debug\RekamMedis.ListResep.resources
+C:\xampp\htdocs\pyathlonlite\ARIFIN_UAP_VB2019-main\RekamMedis\obj\Debug\RekamMedis.Resources.resources
+C:\xampp\htdocs\pyathlonlite\ARIFIN_UAP_VB2019-main\RekamMedis\obj\Debug\RekamMedis.vbproj.GenerateResource.Cache
